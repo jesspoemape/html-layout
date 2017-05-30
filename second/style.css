@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+.first-col {
+    background-color: lightblue;
+    width: 33.333%;
+    height: 100vh;
+    float: left;
+}
+.second-col {
+    background-color: teal;
+    width: 33.333%;
+    height: 100vh;
+    float: left;
+}
+.third-col {
+    background-color: lightgreen;
+    width: 33.333%;
+    height: 100vh;
+    float: left;
+}
+.img-text {
+    color: white;
+    font-family: sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 25%;
+}
+.img-place {
+    background-color: red;
+    height: 25vh;
+    width: 33.333%;
+    float: left;
+    position: absolute;
+    top: 75vh;
+}
